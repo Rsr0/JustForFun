@@ -6,3 +6,5 @@ Python Scripts.....
 >TextBlob: Correction of spellings.
 
 >Moviepy: Convert video to audio.
+
+>Pyqrcode: Generate a QR code.
