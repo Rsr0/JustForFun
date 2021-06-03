@@ -8,3 +8,5 @@ Python Scripts.....
 >Moviepy: Convert video to audio.
 
 >Pyqrcode: Generate a QR code.
+
+>Text2Emotion: Detect the Emotions from the textual data
