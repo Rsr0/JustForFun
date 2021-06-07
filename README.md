@@ -14,3 +14,5 @@ Python Scripts.....
 >Pyqrcode: Generate a QR code.
 
 >Text2Emotion: Detect the Emotions from the textual data
+
+>HandWritten - To get text as Handwritten
