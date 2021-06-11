@@ -16,3 +16,5 @@ Python Scripts.....
 >Text2Emotion: Detect the Emotions from the textual data
 
 >HandWritten - To get text as Handwritten
+
+>wttr - weather forecast information
