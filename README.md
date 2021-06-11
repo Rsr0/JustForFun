@@ -18,3 +18,5 @@ Python Scripts.....
 >HandWritten - To get text as Handwritten
 
 >wttr - weather forecast information
+
+>face - generate random faces
