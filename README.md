@@ -13,10 +13,12 @@ Python Scripts.....
 
 >Pyqrcode: Generate a QR code.
 
->Text2Emotion: Detect the Emotions from the textual data
+>Text2Emotion: Detect the Emotions from the textual data.
 
->HandWritten - To get text as Handwritten
+>HandWritten - To get text as Handwritten.
 
->wttr - weather forecast information
+>wttr - weather forecast information.
 
->face - generate random faces
+>face - generate random faces.
+
+>Webbrowser -  to allow displaying Web-based documents to users.
